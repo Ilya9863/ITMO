@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: info.kgeorgiy.ja.kurkin.implementor.Implementor
+Implementation-Vendor: Kurkin Ilya
+Class-Path: file:/Users/ilya/Desktop/JavaAdv/solutions/java-solutions/info.kgeorgiy.ja.kurkin.implementor/Implementor.java
